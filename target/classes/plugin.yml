@@ -1,0 +1,15 @@
+name: Projeto
+main: projeto.Projeto
+version: 1.0
+author: Vaaaaz
+commands:
+  entidade:
+  vanish:
+    aliases: [v, invisivel]
+  ajuda:
+    aliases: help
+  fly:
+    aliases: voar
+  heal:
+
+
