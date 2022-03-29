@@ -1,5 +1,5 @@
-name: Projeto
-main: projeto.Projeto
+name: vEssentials
+main: vEssentials.vEssentials
 version: 1.0
 author: Vaaaaz
 commands:
